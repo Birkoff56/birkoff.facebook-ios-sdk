@@ -20,11 +20,11 @@
 #import "FBSDKDevicePolling.h"
 #import "FBSDKLoginCompleterFactory.h"
 #import "FBSDKLoginCompletionParameters+Internal.h"
+#import "FBSDKLoginErrorFactory.h"
 #import "FBSDKLoginManagerLogger.h"
 #import "FBSDKLoginProviding.h"
 #import "FBSDKLoginRecoveryAttempter.h"
 #import "FBSDKLoginURLCompleter+Testing.h"
-#import "FBSDKNonceUtility.h"
 #import "FBSDKProfileFactory.h"
 
 // +Testing.h files
@@ -34,7 +34,8 @@
 #import "FBSDKDeviceLoginManagerResult+Testing.h"
 #import "FBSDKDeviceRequestsHelper+Testing.h"
 #import "FBSDKInternalUtility+Testing.h"
-#import "FBSDKLoginButton+Testing.h"
 #import "FBSDKLoginManager+Testing.h"
+#import "FBSDKLoginTooltipView+Testing.h"
 #import "FBSDKProfile+Testing.h"
 #import "FBSDKSettings+Testing.h"
+#import "FBSDKTooltipView+Testing.h"

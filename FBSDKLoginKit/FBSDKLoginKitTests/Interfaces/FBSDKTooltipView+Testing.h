@@ -6,18 +6,14 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-#import <Foundation/Foundation.h>
+#import "FBSDKTooltipView.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
-NS_SWIFT_NAME(Nonce)
-@interface FBSDKNonceUtility : NSObject
+@interface FBSDKTooltipView (Testing)
 
-/// Checks if a string represents a valid nonce.
-+ (BOOL)isValidNonce:(NSString *)nonce;
-
-+ (instancetype)new NS_UNAVAILABLE;
-- (instancetype)init NS_UNAVAILABLE;
+@property (nonatomic) UILabel *textLabel;
+- (void)animateFadeIn;
 
 @end
 
