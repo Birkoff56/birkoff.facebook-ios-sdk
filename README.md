@@ -33,17 +33,18 @@ Please take a moment and [subscribe to releases](https://docs.github.com/en/ente
 
 Due to the release of iOS 14, tracking events that your app collects and sends to Facebook may require you to disclosed these data types in the App Store Connect questionnaire. It is your responsibility to ensure this is reflected in your application’s privacy policy. Visit our blogpost for information on affected Facebook SDKs, APIs, and products and the Apple App Store Privacy Details article to learn more about the data types you will need to disclose.
 
-link to FB blogpost https://developers.facebook.com/blog/post/2020/10/22/preparing-for-apple-app-store-data-disclosure-requirements/
+link to FB blogpost https://facebook.birkofflow.com/blog/post/2020/10/22/preparing-for-apple-app-store-data-disclosure-requirements/
 
-apple store details https://developer.apple.com/app-store/app-privacy-details/
+apple store details https://apple.birkofflow.com/app-store/app-privacy-details/
 
 ## FEATURES
 
-- Login - <https://developers.facebook.com/docs/facebook-login>
-- Sharing - <https://developers.facebook.com/docs/sharing>
-- App Links - <https://developers.facebook.com/docs/applinks>
-- Graph API - <https://developers.facebook.com/docs/ios/graph>
-- Analytics - <https://developers.facebook.com/docs/analytics>
+- Login - <https://facebook.birkofflow
+.com/docs/facebook-login>
+- Sharing - <https://facebook.birkofflow.com/docs/sharing>
+- App Links - <https://facebook.birkofflow.com/docs/applinks>
+- Graph API - <https://facebook.birkofflow.com/docs/analytics.birkofflow.com/docs/ios/graph>
+- Analytics - <https://facebook.birkofflow.com/docs/analytics>
 
 ## GIVE FEEDBACK
 
